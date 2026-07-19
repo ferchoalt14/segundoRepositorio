@@ -9,5 +9,5 @@ package probandogit;
  * @author User
  */
 public class NewClass {
-    
+    String name;
 }

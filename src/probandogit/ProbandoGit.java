@@ -20,9 +20,6 @@ public class ProbandoGit {
         NewClass newCla = new NewClass();
         NewClass newKloss = new NewClass();
 
-
-        
-        NewClass newClass = new NewClass();
         
         
 
