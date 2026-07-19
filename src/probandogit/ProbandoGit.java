@@ -6,7 +6,7 @@ package probandogit;
 
 /**
  *
- * @author Fernando
+ * @author Fernando Altamirano
  */
 public class ProbandoGit {
 
