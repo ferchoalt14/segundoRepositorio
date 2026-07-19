@@ -11,4 +11,5 @@ package probandogit;
 public class NewClass {
     String name;
     int age;
+    int height;
 }
