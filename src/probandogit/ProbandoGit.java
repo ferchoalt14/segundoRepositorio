@@ -17,8 +17,8 @@ public class ProbandoGit {
         System.out.println("Hello world");
         System.out.println("Yes");
         NewClass newCla = new NewClass();
-        
-        
+        NewClass newKloss = new NewClass();
+
     }
-    
+
 }
